@@ -2,7 +2,7 @@
 
 This is a set of resources I used to assist with threat hunting for anomalous tasks. 
 
-This information was presented at ShmooCon 2023. 
+This information was presented at ShmooCon 2023 and GrrCON 2023. 
 
 ## Powershell Analysis
 
